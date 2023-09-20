@@ -6,7 +6,7 @@
 - Node.js
 - Express framework and express global error handler
 - MogoDB and Mongoose
-- JWT for generating and verifying tokens
+- JWT for generating and verify`ing tokens
 - JOI for validation
 - Nodemailer for sending Emails
 - Bcrypt for hashing passwords
